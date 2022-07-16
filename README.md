@@ -1,7 +1,7 @@
 # ZERO G - A ZERO GRAVITY FIRST PERSON SHOOTER
 ### Video Demo:  https://youtu.be/0DFu8p_4HAs
 ## Description:
-ZERO G is a project that, at it's heart, was made to investigate how our descendants, as part of a fully-fledged space-faring civilization in the far future, would move about in space. That question molded the game mechanics that comprise the backbone of this game. This idea has been floating around in my head for a very long time. However, I realised that such a game could be easily turned into a (if not fun, at least interesting) FPS game. It may not be the first of its kind (I'm quite excited for *Boundary* when it comes out) but I sought to create a simple game that could help solidify that idea of movement in space. CS%) has given me the inspiration to finally create that game.
+ZERO G is a project that, at it's heart, was made to investigate how our descendants, as part of a fully-fledged space-faring civilization in the far future, would move about in space. That question molded the game mechanics that comprise the backbone of this game. This idea has been floating around in my head for a very long time. However, I realised that such a game could be easily turned into a (if not fun, at least interesting) FPS game. It may not be the first of its kind (I'm quite excited for *Boundary* when it comes out) but I sought to create a simple game that could help solidify that idea of movement in space. CS50 has given me the inspiration to finally create that game.
 
 ### Movement in space - Means of travel
 To clarify, this game does not focus on the large space vehicles that will eventually carry us around space, but instead focuses on *extravehicular* movement, on individual people navigating across a large corridor, or an open construction site at an orbital shipyard, for example. Excluding the usage of ladders or handlebars, how would we move?
@@ -76,15 +76,18 @@ SlayerLeaderboard.cs manages Slayer/Deathmatch displayed data as well as the gam
 
 ## Difficulties / Lessons Learned
 One current limitation of the game is its simplistic models, and lack of sound. I do not have prior experience with 3D modelling, so I was unable to provide anything of the sort in the time I challenged myself to complete this.
-I'd like to say that the lack of sound is intentional, since there is no sound in space, however it was due to a lack of time and knowledge on where to find goodd resources as well. Future releases of ZERO G will have these implemented.
+I'd like to say that the lack of sound is intentional, since there is no sound in space, however it was due to a lack of time and knowledge on where to find good resources as well. Future releases of ZERO G will have these implemented.
 C# is also my first taste of object-oriented-programming. While I learned a lot from it, much of the code is inefficent because of a lack of experience with it, especially with access modifiers.
 As I learned more effecient methods to solve problems with different methods provided by the Unity Engine, I tried to rewrite previous code to match. However, large parts of the code are written with different mindsets and ways to solve the same issues, as I was unable to catch some of these before they became *essential* to not breaking other parts of the code. At the very least, I believe I have rewritten it enough to implement multiplayer slightly easier now.
 
 ## What's in the future for ZERO G?
-- Sound (not too unrealistic sounds though)
+- Realistic sound
 - Better models
-- Multiplayer
-- More efficient and clean code
+- More weapons
+- Dynamic environment (moveable crates, explosives)
+- Movement on walls (through ladders, rails and the like)
+- Additional gamemodes, including multiplayer
+- Cleaner, optimized code
 
 ## Conclusion
 I've had a great deal of fun doing this as well as the rest of CS50. I'm thinking of starting on CS50G and CS50AI after this.
