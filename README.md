@@ -1,5 +1,5 @@
 # ZERO G - A ZERO GRAVITY FIRST PERSON SHOOTER
-### Video Demo:  <URL https://youtu.be/0DFu8p_4HAs>
+### Video Demo:  https://youtu.be/0DFu8p_4HAs
 ## Description:
 ZERO G is a project that, at it's heart, was made to investigate how our descendants, as part of a fully-fledged space-faring civilization in the far future, would move about in space. That question molded the game mechanics that comprise the backbone of this game. This idea has been floating around in my head for a very long time. However, I realised that such a game could be easily turned into a (if not fun, at least interesting) FPS game. It may not be the first of its kind (I'm quite excited for *Boundary* when it comes out) but I sought to create a simple game that could help solidify that idea of movement in space. CS%) has given me the inspiration to finally create that game.
 
